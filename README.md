@@ -1,1 +1,2 @@
-# AEGIS_I
+# AEGIS_I e Laboratório de Programação I
+
